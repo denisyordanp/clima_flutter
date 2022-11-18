@@ -12,4 +12,4 @@ Features:
 
 iOS | Android
 :--: | :--:
-Test | Test
+![ios_simulator_demo](https://user-images.githubusercontent.com/48426396/202658933-5b9c4477-281c-4827-af3c-571c5861beb4.gif) | ![android_emulator_demo](https://user-images.githubusercontent.com/48426396/202658868-50740d86-6274-40e4-8f02-59499a89957b.gif)
